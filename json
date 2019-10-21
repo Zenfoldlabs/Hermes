@@ -1,0 +1,63 @@
+{
+  "name": "Hermes",
+  "description": "Hermes Delivery App",
+  "displayField": null,
+  "fields": [
+    {
+      "id": "location",
+      "name": "Location",
+      "type": "Location",
+      "localized": true,
+      "required": true,
+      "validations": [],
+      "disabled": false,
+      "omitted": false
+    }
+  ],
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "8kz7x69wpzma"
+      }
+    },
+    "id": "Hermes",
+    "type": "ContentType",
+    "createdAt": "2019-10-21T06:39:09.242Z",
+    "updatedAt": "2019-10-21T06:39:10.109Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 1,
+    "publishedAt": "2019-10-21T06:39:10.109Z",
+    "firstPublishedAt": "2019-10-21T06:39:10.109Z",
+    "createdBy": {
+      "sys": {
+        "type": "Link",
+        "linkType": "User",
+        "id": "2dGQico5SFCM93YVwvISuE"
+      }
+    },
+    "updatedBy": {
+      "sys": {
+        "type": "Link",
+        "linkType": "User",
+        "id": "2dGQico5SFCM93YVwvISuE"
+      }
+    },
+    "publishedCounter": 1,
+    "version": 2,
+    "publishedBy": {
+      "sys": {
+        "type": "Link",
+        "linkType": "User",
+        "id": "2dGQico5SFCM93YVwvISuE"
+      }
+    }
+  }
+}
